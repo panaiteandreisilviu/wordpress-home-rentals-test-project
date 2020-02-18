@@ -63,5 +63,5 @@ Thumbs.db
 !composer.json
 
 # track these themes
-!wp-content/themes/understrap
+!wp-content/themes/understrap/
 !wp-content/mu-plugins/custom-post-types.php
